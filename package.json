@@ -1,0 +1,15 @@
+{
+  "name": "js-certificate-maker-cloudnary",
+  "version": "1.0.0",
+  "main": "",
+  "license": "MIT",
+  "scripts": {
+    "upload": "node src/uploader.js",
+    "start": "node src/creator.js"
+  },
+  "dependencies": {
+    "cloudinary": "^1.21.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}

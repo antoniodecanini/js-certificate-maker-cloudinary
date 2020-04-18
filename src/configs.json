@@ -1,0 +1,20 @@
+{
+  "cloudinaryConfig": {
+    "cloud_name": "", 
+    "api_key": "", 
+    "api_secret": ""
+  },
+  
+  "uploadConfig": {
+    "imageName": "certificado.png",
+    "publicId": "certificate"
+  },
+
+  "createConfig": {
+    "font": "Cookie",
+    "font_size": 60,
+    "color": "#333",
+    "position_x": 0,
+    "position_y": -90
+  }
+}
