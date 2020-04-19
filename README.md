@@ -1,4 +1,4 @@
-# JavaScript Certificate Maker
+# 🖼 JavaScript Certificate Maker
 
 <p align="center">
   <a href="https://github.com/antoniodecanini">
@@ -11,9 +11,9 @@
 This is a package to create certificates automatically from a list of names. You should to create a certificate basis, where the names will be placed. Then from a list of participants, the package generate the certificates, with their names.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/decanini/image/upload/v1587219960/certificate.png" width="345">
+  <img src="https://res.cloudinary.com/decanini/image/upload/v1587219960/certificate.png" width="450">
 
-  <img src="https://res.cloudinary.com/decanini/image/upload/v1587301422/Alexia_Ridley_badtmb.png" width="345">
+  <img src="https://res.cloudinary.com/decanini/image/upload/v1587301422/Alexia_Ridley_badtmb.png" width="450">
 </p>
 
 ---
