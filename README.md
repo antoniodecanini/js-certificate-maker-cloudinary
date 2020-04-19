@@ -67,6 +67,7 @@ $npm start
 - Core
   - [node.js](https://nodejs.org/en/) - a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
+- Services
   - [cloudinary](https://cloudinary.com/) - a lib for efficiently manage, optimize, and deliver images, videos and other media across every device and channel.
 
 ---
