@@ -25,8 +25,7 @@ This is a package to create certificates automatically from a list of names. You
 
 - Have a basis for the certificate, leaving it blank, just where the person’s name will go.
 
-### Step 1
-- 👯 Clone this repo to your local machine and install dependencies
+### Step 1 - 👯 Clone this repo to your local machine and install dependencies
 ```
 $ git clone https://github.com/antoniodecanini/js-certificate-maker-cloudinary.git
 
@@ -35,8 +34,7 @@ $ cd js-certificate-maker-cloudinary
 $ npm install
 ```
 
-### Step 2
-- ⚙️ Make the settings
+### Step 2 - ⚙️ Make the settings
   - In `src/configs.json`, you will find the initial config
     - Fill the `cloudinaryConfig` with your cloudinary settings, found on your cloudinary dashboard.
 
@@ -46,18 +44,15 @@ $ npm install
 
     - On `createConfig`, you can configure the appearence of the text, and the position it should be in the certificate.
 
-### Step 3
-- 👨‍🎓 People's name
+### Step 3 - 👨‍🎓 People's name
   - Fill the people's name in `public/names.json`.
 
-### Step 4
-- ⬆️ Up the certificate basis
+### Step 4 - ⬆️ Up the certificate basis
 ```
 $ npm upload
 ```
 
-### Step 5
-- ⬇️ Generate an download certificates
+### Step 5 - ⬇️ Generate an download certificates
 ```
 $npm start
 ```
